@@ -9,7 +9,7 @@ The goal is to build a predictive model that helps management understand the key
 ## Dataset
 The dataset consists of various car attributes and their prices, collected through market surveys in the US.
 
-**Dataset Link**: https://github.com/Gokulnhari/Capstone-Project_ML/blob/main/Capstone/CarPrice_Assignment.csv
+**Dataset Link**: https://github.com/Gokulnhari/Capstone-Project_ML/blob/main/CarPrice_Assignment.csv
 
 ## Features & Workflow
 
